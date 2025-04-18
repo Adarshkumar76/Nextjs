@@ -1,0 +1,11 @@
+.login-menu{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    list-style: none;
+    gap: 10px;
+}
+.login-menu li a{
+    text-decoration: none;
+    color: black;
+}
